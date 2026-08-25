@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Job Opportunity Engine public architecture</title>
+  <desc id="desc">A local-first workflow diagram showing intake, normalization, verification, evaluation, prioritization, and review-oriented preparation under governed evidence and human review.</desc>
+  <style>
+    .bg { fill: #f7f5f0; } .title { font: 700 34px system-ui, sans-serif; fill: #17212b; } .sub { font: 400 17px system-ui, sans-serif; fill: #53616d; } .box { fill: #ffffff; stroke: #526878; stroke-width: 2; rx: 13; } .box2 { fill: #e7eef0; stroke: #526878; stroke-width: 2; rx: 13; } .label { font: 700 18px system-ui, sans-serif; fill: #17212b; } .small { font: 400 14px system-ui, sans-serif; fill: #53616d; } .arrow { stroke: #527685; stroke-width: 3; fill: none; marker-end: url(#arrow); } .line { stroke: #a4b7be; stroke-width: 2; stroke-dasharray: 7 6; }
+  </style>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#527685"/></marker></defs>
+  <rect class="bg" width="1200" height="620"/>
+  <text class="title" x="60" y="72">Job Opportunity Engine</text><text class="sub" x="60" y="104">Public architecture: governed evaluation in a local-first private operating system</text>
+  <g transform="translate(60 190)">
+    <rect class="box" x="0" y="0" width="150" height="95"/><text class="label" x="75" y="39" text-anchor="middle">Intake</text><text class="small" x="75" y="66" text-anchor="middle">opportunity</text>
+    <rect class="box" x="190" y="0" width="150" height="95"/><text class="label" x="265" y="39" text-anchor="middle">Normalize</text><text class="small" x="265" y="66" text-anchor="middle">structured record</text>
+    <rect class="box" x="380" y="0" width="150" height="95"/><text class="label" x="455" y="39" text-anchor="middle">Verify</text><text class="small" x="455" y="66" text-anchor="middle">deduplicate</text>
+    <rect class="box" x="570" y="0" width="150" height="95"/><text class="label" x="645" y="39" text-anchor="middle">Evaluate</text><text class="small" x="645" y="66" text-anchor="middle">requirements + fit</text>
+    <rect class="box" x="760" y="0" width="150" height="95"/><text class="label" x="835" y="39" text-anchor="middle">Prioritize</text><text class="small" x="835" y="66" text-anchor="middle">review queue</text>
+    <rect class="box2" x="950" y="0" width="170" height="95"/><text class="label" x="1035" y="33" text-anchor="middle">Prepare</text><text class="small" x="1035" y="59" text-anchor="middle">human-reviewed</text><text class="small" x="1035" y="79" text-anchor="middle">next step</text>
+    <path class="arrow" d="M150 48H185M340 48H375M530 48H565M720 48H755M910 48H945"/>
+    <path class="line" d="M645 95V170"/><path class="line" d="M1035 95V170"/>
+    <rect class="box2" x="435" y="170" width="420" height="100"/><text class="label" x="645" y="210" text-anchor="middle">Governed evidence and capability matching</text><text class="small" x="645" y="238" text-anchor="middle">inspectable rules · approved assessments · privacy boundaries</text>
+  </g>
+  <text class="sub" x="60" y="555">Human review remains the authority boundary for final external action.</text>
+</svg>
