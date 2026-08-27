@@ -21,17 +21,21 @@ The public model is a local-first, private operating system for career operation
 
 The architecture separates evidence from inference, uses deterministic rules for consequential evaluation, and preserves a human decision boundary before any final application submission.
 
-![Job Opportunity Engine architecture](architecture.svg)
+## Public evidence path
+
+- [Architecture diagram](architecture.svg)
+- [Fictional operating walkthrough](synthetic-walkthrough.md)
+- [Design decisions](design-decisions.md)
+- [Validation snapshot](validation-snapshot.md)
+- [Public portfolio case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/job-opportunity-engine/)
 
 ## What the public checkpoint supports
 
 At the latest clean public portfolio checkpoint, the private Python and SQLite foundation was validated by **146 passing tests**. It supports governed job and evaluation workflows, canonical candidate evidence, capability assessment and matching concepts, and application-preparation architecture.
 
-## What is intentionally not claimed
+## Current boundary
 
-- Broad autonomous external job search is outside the clean public checkpoint.
-- Automated final application submission is not a capability claim.
-- This repository does not reproduce private runtime code, data, records, or configuration.
+Broad autonomous external job search and automated final application submission remain outside the clean public checkpoint. This public repository intentionally does not reproduce private runtime code, data, records, or configuration.
 
 ## Governance principles
 
@@ -41,5 +45,3 @@ At the latest clean public portfolio checkpoint, the private Python and SQLite f
 - Bind capability matching to approved assessments rather than unsupported inference.
 - Technical fluency is not software engineering, and application state is distinct from outcome.
 - Require human control for consequential external actions.
-
-Read the [public portfolio case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/job-opportunity-engine/).
