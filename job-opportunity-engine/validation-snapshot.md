@@ -1,28 +1,32 @@
 # Job Opportunity Engine validation snapshot
 
-## Public checkpoint
+## Latest clean public checkpoint
 
-This snapshot describes the **latest clean public portfolio checkpoint**, not the current state of private active development.
+Committed checkpoint: `0c32ec8e220d85c87265485cdeac71332cffb332`
 
-At that checkpoint, the private local-first Python and SQLite foundation had **146 passing automated tests**.
+- 180 automated tests collected
+- 180 passed
+- 0 failed
+- 0 skipped
+- Private-data guard: **PASS**
+- Git diff check: **PASS**
+
+Latest clean public checkpoint: **180 passing automated tests across governed collection, evaluation, preparation, evidence, lifecycle, storage, and review controls.** This checkpoint does not represent active private development.
 
 ## What the validation exercises
 
-The public-safe validation description includes controls around:
+The public-safe categories include:
 
-- identity and lifecycle/state handling;
-- normalization, verification, and deduplication;
-- deterministic evaluation and prioritization;
-- evidence governance and approved capability matching;
-- candidate/profile isolation; and
-- privacy and data-policy guards.
+- normalization, identity, verification, and deduplication;
+- deterministic evaluation, ranking, and candidate decisions;
+- evidence governance, approved capability matching, and candidate isolation;
+- application lifecycle and preparation orchestration;
+- frozen packets and divergence detection;
+- claim validation, private artifact/evidence relationships, and review behavior; and
+- privacy/data-policy controls.
 
-The test count is not divided into public category counts because that level of test detail could expose private implementation structure without improving the public claim.
+The test count is not divided into public category counts because that detail would expose private implementation structure without strengthening the public claim.
 
-## What 146 tests supports
+## What this does not prove
 
-The checkpoint supports a measured claim that the described private foundation and deterministic controls were tested. It supports the public maturity boundary for governed collection, evaluation, and review-oriented preparation.
-
-## What 146 tests does not prove
-
-It does not establish broad autonomous external search, automated final submission, production deployment, or any newer capability from active private development.
+It does not establish production deployment, live model generation, live provider integrations, browser automation, ATS submission, production document QA, customer adoption, or production-scale operation.

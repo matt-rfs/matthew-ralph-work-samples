@@ -8,27 +8,37 @@
 
 **Risk prevented:** A plausible model output silently changing a consequential decision or creating inconsistent evaluation.
 
-**Validation / boundary:** The clean public checkpoint includes deterministic evaluation and state controls. It does not claim autonomous search or final submission.
+**Validation / boundary:** Provider-neutral generation contracts and synthetic test behavior are bounded by deterministic validation. No live provider-backed generation runtime is claimed.
 
 ## Evidence-backed claims rather than generated truth
 
-**Decision:** Treat generated language as preparation, not as authoritative candidate evidence.
+**Decision:** Require prepared claims to point back to governed evidence and validate them deterministically.
 
-**Why:** A polished sentence can exceed what the evidence supports.
+**Why:** A polished sentence can exceed what evidence supports.
 
-**Risk prevented:** Unsupported capability inflation in an evaluation or application artifact.
+**Risk prevented:** Unsupported metrics, capabilities, or interpretations entering a preparation artifact.
 
-**Validation / boundary:** Evidence governance and approved capability matching are within the public checkpoint; private evidence contents are not published.
+**Validation / boundary:** Claim validation and artifact-to-evidence relationships are implemented. Private claim manifests and evidence contents are not published.
 
-## Explicit profile isolation
+## Frozen preparation packets and visible divergence
 
-**Decision:** Keep candidate evidence and profile context isolated rather than allowing broad, implicit reuse.
+**Decision:** Freeze the verified job, evaluation, evidence, capability, and baseline basis for a preparation packet; surface divergence if that basis changes.
 
-**Why:** Relevance, ownership, and privacy depend on knowing which approved evidence belongs to which context.
+**Why:** A package that was valid for one snapshot must not silently remain authoritative after relevant facts change.
 
-**Risk prevented:** Cross-context evidence use and accidental disclosure of private career material.
+**Risk prevented:** Stale preparation being mistaken for current approved material.
 
-**Validation / boundary:** Candidate isolation and privacy guards are part of the safe public validation description. No real profile or evidence identifiers appear here.
+**Validation / boundary:** Packet persistence and divergence checks are implemented. This does not claim a completed production approval or submission workflow.
+
+## Private artifact custody and resume lineage
+
+**Decision:** Keep preparation artifacts private, profile-owned, traceable, and linked to approved evidence and resume lineage.
+
+**Why:** Preparation materials can contain sensitive candidate information even when their governing controls are useful to discuss publicly.
+
+**Risk prevented:** Cross-profile leakage, path exposure, or public release of private artifacts.
+
+**Validation / boundary:** Private storage, ownership, digest, and evidence-link controls are tested. Production DOCX/PDF artifact QA remains incomplete.
 
 ## Human control for final external action
 
@@ -36,6 +46,6 @@
 
 **Why:** Career claims and submission decisions are consequential and require accountable judgment.
 
-**Risk prevented:** An automated submission representing a person with an incomplete, stale, or unsupported claim.
+**Risk prevented:** An automated submission representing a person with incomplete, stale, or unsupported claims.
 
-**Validation / boundary:** The system can support review-oriented preparation at the clean public checkpoint. Final autonomous submission is outside scope.
+**Validation / boundary:** `NEEDS_HUMAN` and `REVIEW_READY` support review-state visibility. Final autonomous submission is outside scope.

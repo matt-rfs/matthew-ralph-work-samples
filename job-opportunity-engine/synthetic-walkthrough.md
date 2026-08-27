@@ -42,6 +42,8 @@ Preparation may assemble a review-oriented brief that:
 
 It may not claim that Jordan built distributed services, held a credential not in evidence, or met a requirement simply because the language sounds adjacent.
 
+Any later preparation is tied to the verified opportunity, evaluation, and evidence basis used to create it. If that basis changes, the preparation must be reviewed rather than silently treated as current. See the separate [fictional preparation lifecycle](preparation-lifecycle.md).
+
 ## 5. Human review remains the boundary
 
 A human decides whether to pursue the opportunity, revise the preparation, or stop. Final external submission is not automated at this public checkpoint.

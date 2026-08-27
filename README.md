@@ -8,11 +8,12 @@ These work samples show how ambiguous operational problems can be translated int
 
 ### [Job Opportunity Engine](job-opportunity-engine/README.md)
 
-A private, local-first career-operations system centered on deterministic evaluation, governed evidence use, and human-controlled preparation.
+A private, local-first governed career-operations system spanning deterministic evaluation, evidence-bound preparation, private artifact custody, and human review.
 
 - [Public portfolio case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/job-opportunity-engine/)
 - [Overview and architecture](job-opportunity-engine/README.md)
 - [Fictional walkthrough](job-opportunity-engine/synthetic-walkthrough.md)
+- [Fictional preparation lifecycle](job-opportunity-engine/preparation-lifecycle.md)
 - [Design decisions](job-opportunity-engine/design-decisions.md)
 - [Validation snapshot](job-opportunity-engine/validation-snapshot.md)
 
