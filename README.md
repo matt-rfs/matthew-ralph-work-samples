@@ -27,6 +27,16 @@ Implemented offline governance infrastructure for outbound approval, evidence cu
 - [Design decisions](response-flow-systems/design-decisions.md)
 - [Validation snapshot](response-flow-systems/validation-snapshot.md)
 
+### [AI Systems Reliability Lab](ai-systems-reliability-lab/README.md)
+
+Bounded AI reliability experiments demonstrating evaluation discipline, release gating, evaluator validation, evidence integrity, and human oversight.
+
+- [Curated Lab 01 entry point](ai-systems-reliability-lab/README.md)
+- [Model Regression Gate](ai-systems-reliability-lab/model-regression-gate.md)
+- [Evaluator audit](ai-systems-reliability-lab/evaluator-audit.md)
+- [Validation snapshot](ai-systems-reliability-lab/validation-snapshot.md)
+- [Canonical technical evidence](https://github.com/matt-rfs/ai-systems-reliability-lab)
+
 ## Portfolio
 
 - [Portfolio homepage](https://matt-rfs.github.io/matthew-ralph-portfolio/)
