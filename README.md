@@ -29,12 +29,14 @@ Implemented offline governance infrastructure for outbound approval, evidence cu
 
 ### [AI Systems Reliability Lab](ai-systems-reliability-lab/README.md)
 
-Bounded AI reliability experiments demonstrating evaluation discipline, release gating, evaluator validation, evidence integrity, and human oversight.
+Bounded AI reliability experiments demonstrating release evaluation, failure forensics, evaluator validation, evidence integrity, and human oversight.
 
-- [Curated Lab 01 entry point](ai-systems-reliability-lab/README.md)
+- [Curated Reliability Lab program](ai-systems-reliability-lab/README.md)
 - [Model Regression Gate](ai-systems-reliability-lab/model-regression-gate.md)
 - [Evaluator audit](ai-systems-reliability-lab/evaluator-audit.md)
-- [Validation snapshot](ai-systems-reliability-lab/validation-snapshot.md)
+- [Lab 01 validation snapshot](ai-systems-reliability-lab/validation-snapshot.md)
+- [Failure Forensics](ai-systems-reliability-lab/failure-forensics.md)
+- [Lab 02 validation snapshot](ai-systems-reliability-lab/lab-02-validation-snapshot.md)
 - [Canonical technical evidence](https://github.com/matt-rfs/ai-systems-reliability-lab)
 
 ## Portfolio
