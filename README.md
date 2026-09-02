@@ -39,10 +39,19 @@ Bounded AI reliability experiments demonstrating release evaluation, failure for
 - [Lab 02 validation snapshot](ai-systems-reliability-lab/lab-02-validation-snapshot.md)
 - [Canonical technical evidence](https://github.com/matt-rfs/ai-systems-reliability-lab)
 
+### [Personal Intelligence Refinery](personal-intelligence-refinery/README.md)
+
+Curated public evidence from a private, local-first governed research and decision-support system. It separates model proposals from deterministic validation and explicit human authority before any material may become a durable claim.
+
+- [Curated evidence overview](personal-intelligence-refinery/README.md)
+- [Bounded real-model claim-identification evidence](personal-intelligence-refinery/real-model-claim-identification.md)
+- [Public portfolio case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/personal-intelligence-refinery/)
+
 ## Portfolio
 
 - [Portfolio homepage](https://matt-rfs.github.io/matthew-ralph-portfolio/)
 - [Job Opportunity Engine case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/job-opportunity-engine/)
 - [Response Flow Systems case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/response-flow-systems/)
+- [Personal Intelligence Refinery case study](https://matt-rfs.github.io/matthew-ralph-portfolio/work/personal-intelligence-refinery/)
 
 These are public-safe work samples. Production/private repositories and operational data are intentionally not published. See also the shared [evidence and authority note](docs/evidence-and-authority.md).
