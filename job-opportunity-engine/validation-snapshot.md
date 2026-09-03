@@ -4,14 +4,14 @@
 
 Committed checkpoint: `0c32ec8e220d85c87265485cdeac71332cffb332`
 
-- 180 automated tests collected
-- 180 passed
+- 222 automated tests collected
+- 222 passed
 - 0 failed
 - 0 skipped
 - Private-data guard: **PASS**
 - Git diff check: **PASS**
 
-Latest clean public checkpoint: **180 passing automated tests across governed collection, evaluation, preparation, evidence, lifecycle, storage, and review controls.** This checkpoint does not represent active private development.
+Latest clean public checkpoint: **222 passing automated tests across governed collection, evaluation, preparation, evidence, lifecycle, storage, and review controls.** The private, local-first system now includes governed preparation-plan review and cancellation, explicit human-input and application-question foundations, and minimal application-package readiness checks. This checkpoint does not represent active private development.
 
 ## What the validation exercises
 

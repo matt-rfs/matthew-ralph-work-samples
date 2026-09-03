@@ -34,11 +34,11 @@ Deterministic software remains authority for identity, evidence, state, validati
 
 ## What the public checkpoint supports
 
-At the latest clean public checkpoint, committed private Python and SQLite authority was validated by **180 passing automated tests**. The checkpoint supports governed collection and evaluation, canonical evidence and capability matching, preparation orchestration, frozen packets, deterministic claim validation, private artifact custody, lifecycle controls, and candidate-scoped review behavior.
+At the latest clean public checkpoint, committed private Python and SQLite authority was validated by **222 passing automated tests**. The private, local-first Job Opportunity Engine now includes governed preparation-plan review and cancellation, explicit human-input and application-question foundations, and readiness checks for a minimal application package. Final application decisions and external action remain human-controlled; no autonomous submission or live browser, ATS, or model runtime is claimed.
 
 ## Current boundary
 
-This is not a production SaaS, autonomous career agent, live model-generation system, browser-automation tool, or ATS-submission system. Production document QA, cover-letter and application-question systems, live provider integrations, and final external submission remain outside the checkpoint. This repository intentionally excludes private runtime code, data, records, artifacts, packets, and configuration.
+This is not a production SaaS, autonomous career agent, live model-generation system, browser-automation tool, or ATS-submission system. Production document QA, cover-letter systems, end-to-end application-question systems, live provider integrations, and final external submission remain outside the checkpoint. This repository intentionally excludes private runtime code, data, records, artifacts, packets, and configuration.
 
 ## Governance principles
 

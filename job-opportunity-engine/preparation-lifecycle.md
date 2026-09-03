@@ -28,6 +28,8 @@ The fictional package can include a review brief, a synthetic résumé draft, a 
 
 When required information is incomplete or ambiguous, the package reaches **NEEDS_HUMAN**. When deterministic checks pass, it can reach **REVIEW_READY**. Neither state is submission authority.
 
+The preparation foundation also supports review or cancellation of a plan, explicitly records required human input and application questions, and checks minimal package readiness. These are governed preparation controls, not autonomous submission or external execution.
+
 ## 6. Detect divergence instead of drifting
 
 Suppose the fictional opportunity is updated after preparation: its responsibilities now require direct production-software ownership. The current opportunity state no longer matches the frozen basis.
